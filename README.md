@@ -13,7 +13,7 @@ Herní režimy:
 
 Náhodný předmět,
 
-Uhodnout co nejvícce v časovém limitu,
+Uhodnout co nejvíce v časovém limitu,
 
 Denní úkol
 
