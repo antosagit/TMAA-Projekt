@@ -1,10 +1,12 @@
 # TMAA-Projekt
 
-Jdnoduchá hra kde je za úkol uhodnout minecraft item podle jeho receptu do určitého počtu pokusů.
+Jdnoduchá hra kde je za úkol uhodnout minecraft předmět podle jeho receptu do určitého počtu pokusů.
 
 Něco na způsob wordle.
 
-item se nachází v receptu na tomto místě = zelená, item se nachází jinde = žlutá
+předmět se nachází v receptu na tomto místě = zelená, předmět se nachází jinde = žlutá
+
+správně uhodnuty všechny prědměty v receptu do určitého počtu pokusů = výhra
 
 
 Herní režimy:
